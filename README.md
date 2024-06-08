@@ -10,7 +10,7 @@ I'm a budding software developer, enriched by a Full Stack Web Development Bootc
 - 🌐 AWS Certified Practitioner, focusing on building scalable and secure cloud applications.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=django,py,mongodb,mysql,postgres,docker,heroku,js,nodejs,express,react,html,css,figma,aws,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,py,mongodb,mysql,postgres,redis,docker,heroku,js,nodejs,express,react,html,css,figma,aws,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
