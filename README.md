@@ -11,6 +11,8 @@ I'm a  **web application penetration tester** and **full stack web developer** p
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=django,py,mongodb,mysql,postgres,redis,docker,heroku,js,nodejs,express,react,html,css,figma,aws,git,github)](https://skillicons.dev)
 
+[![Web Security Skills](https://yourcdn.com/icons/security-lock-shield-burp-suit.png)](https://yourprojectlink.com)
+
 ---
 
 ## 🚀 Technical Focus  
