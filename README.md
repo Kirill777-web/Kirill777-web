@@ -11,8 +11,6 @@ I'm a  **web application penetration tester** and **full stack web developer** p
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=django,py,mongodb,mysql,postgres,redis,docker,heroku,js,nodejs,express,react,html,css,figma,aws,git,github)](https://skillicons.dev)
 
-[![Web Security Skills](https://yourcdn.com/icons/security-lock-shield-burp-suit.png)](https://yourprojectlink.com)
-
 ---
 
 ## 🚀 Technical Focus  
@@ -25,10 +23,10 @@ I'm a  **web application penetration tester** and **full stack web developer** p
 
 ## 🎓 Certifications  
 
-- CompTIA A+  
-- CompTIA Network+  
-- CompTIA Security+  
-- EC-Council CEH (in progress)
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-yellow?logo=comptia&logoColor=white)
+![CEH in Progress](https://img.shields.io/badge/EC--Council-CEH%20(in%20progress)-black)
 - AWS Practitoner
 
 ---
