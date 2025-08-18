@@ -1,4 +1,4 @@
-# 👨‍💻 About Me  
+# About Me  
 
 I'm a  **web application penetration tester** and **full stack web developer** passionate about building applications that are not only innovative but also **secure against modern threats**.  
 
