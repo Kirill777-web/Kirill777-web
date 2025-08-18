@@ -23,10 +23,13 @@ I'm a  **web application penetration tester** and **full stack web developer** p
 
 ## 🎓 Certifications  
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?logo=comptia&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-yellow?logo=comptia&logoColor=white)
-![CEH in Progress](https://img.shields.io/badge/EC--Council-CEH%20(in%20progress)-black)
+[<img src="CompTIASecurityPlus.png" width="100"/>](https://www.credly.com/badges/f9dec88e-a3ab-4581-b295-602fe247e321/public_url)
+[<img src="CompTIANetworkPlus.png" width="100"/>](https://www.credly.com/badges/c80f4603-fc26-4175-b5fe-2064b6c46991/public_url)
+[<img src="CTF.png" width="100"/>](https://www.credly.com/badges/e902baea-c3cf-410d-9bae-b7c8ab1ee624/public_url)
+[<img src="cisco-ethical-hacking.png" width="100"/>](https://www.credly.com/badges/138941a2-a5dc-4896-84c4-f9019512bff8/public_url)
+[<img src="aws-certified-cloud-practitioner.png" width="100"/>](https://www.credly.com/badges/f123be6a-9a11-45b3-904a-27bdb1ffc25b/public_url)
+[<img src="CompTIAAPlus.png" width="100"/>](https://www.credly.com/badges/535b324e-37cc-48ab-8dfc-a722ff549f4b/public_url)
+
 - AWS Practitoner
 
 ---
