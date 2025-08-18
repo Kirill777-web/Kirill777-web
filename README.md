@@ -30,8 +30,6 @@ I'm a  **web application penetration tester** and **full stack web developer** p
 [<img src="aws-certified-cloud-practitioner.png" width="100"/>](https://www.credly.com/badges/f123be6a-9a11-45b3-904a-27bdb1ffc25b/public_url)
 [<img src="CompTIAAPlus.png" width="100"/>](https://www.credly.com/badges/535b324e-37cc-48ab-8dfc-a722ff549f4b/public_url)
 
-- AWS Practitoner
-
 ---
 
 ## 🌱 Currently Exploring  
