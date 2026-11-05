@@ -1,10 +1,11 @@
 # About Me  
 
-I'm a  **web application penetration tester** and **full stack web developer** passionate about building applications that are not only innovative but also **secure against modern threats**.  
+Certified Cybersecurity Specialist & SOC Analyst with a strong foundation in IT infrastructure, system administration, and network security. I hold CompTIA Security+, Network+, and A+ certifications, alongside hands-on technical training from Oulton College and the EC-Council CEH program, sharpening my skills in threat detection, vulnerability assessment, and incident response.
 
-🎓 I completed a **Full Stack Web Development Bootcamp** at the **University of New Brunswick**, hold the **Meta Front-End Developer Professional Certificate**, and am currently expanding my backend expertise through **Meta’s Web Development Professional Certificate**.  
+My technical toolkit centers on SIEM monitoring (Splunk, Microsoft Sentinel), endpoint telemetry (Sysmon), packet analysis (Wireshark), log triage, and Python scripting for security automation. Backed by practical lab simulations—ranging from building custom phishing triage tools and WIPS prototypes to investigating live corporate breach scenarios—I combine a deep understanding of network traffic with active defense strategies.
+I am passionate about continuous learning, rigorous log analysis, and helping organizations defend against evolving cyber threats. Currently targeting Junior SOC Analyst and Blue Team roles where I can leverage my skills in threat detection, alert triage, and incident response.
 
-🔐 My focus is on the **intersection of secure software development and cybersecurity**, with an emphasis on **web application security**. I actively train on **TryHackMe** and **HackTheBox**, sharpening my penetration testing, ethical hacking, and defensive security skills.  
+Let’s connect and strengthen digital security together!  
 
 ---
 
